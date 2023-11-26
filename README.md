@@ -15,3 +15,5 @@
 185.199.110.153
 185.199.111.153
 ````
+
+- Confirm that the DNS record were configured correctly using `dig tarod.net +noall +answer -t A`
